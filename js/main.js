@@ -91,8 +91,6 @@ function getAkanName() {
     index = dayOfWeekNumber + 1;
   }
 
-  console.log(index);
-
   if (myGenderValue == "male" && monthValid && dayValid) {
     document.getElementById("result").textContent =
       "You were born on a " +
