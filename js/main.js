@@ -84,7 +84,7 @@ function getAkanName() {
 
   // generating and index value to select items on arrays
   let index;
-  // fix formula bug
+ 
   if (dayOfWeekNumber == 0) {
     index = 1;
   } else {
