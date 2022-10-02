@@ -16,6 +16,9 @@
 # Technologies used.
 ## JavaScript, HTML, CSS
 
+# Live Link
+### https://kennedyfvb.github.io/your-akan-name/
+
 # Contact information.
 ## https://www.linkedin.com/in/ken-kahura/
 
