@@ -27,7 +27,7 @@ function getAkanName() {
 
   function dayValidator() {
     if (month === 2 && Number(year) % 4 === 0) {
-      if (day > 28 || day < 1) {
+      if (day > 29 || day < 1) {
         return false;
       } else if (month === 2 && day > 29) {
         return false;
